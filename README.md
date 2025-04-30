@@ -2,7 +2,7 @@
 
 **College Minor Project – Semester 6**
 
-A smart medication and water intake reminder app developed using Flutter and Firebase, integrated with AI to help users manage their health effectively.
+A smart medicatio  developed using Flutter and Firebase, integrated with AI to help users manage their health effectively.
 
 ---
 
@@ -50,7 +50,8 @@ MedReminders is a mobile application that allows users to:
 
 - 🌙 Dark Mode  
 - 🔔 Push Notifications for reminders  
-- 📊 View Medication History  
+- 📊 View Medication History
+- water intake reminder
 
 ---
 
