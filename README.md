@@ -20,7 +20,7 @@ MedReminders is a mobile application that allows users to:
 
 - **Flutter** – Frontend Framework  
 - **Dart** – Programming Language  
-- **Firebase** – Authentication & Database  
+- **Firebase** – Authentication & Database  (R)
 - **Cursor.ai** – AI Integration  
 - **ChatGPT** – AI Health Assistant  
 - **VS Code** – IDE  
