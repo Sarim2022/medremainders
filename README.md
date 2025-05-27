@@ -30,8 +30,8 @@ MedReminders is a mobile application that allows users to:
 
 ## 📁 Code & Downloads
 
-🔗 **Source Code:** [Google Drive Folder](https://drive.google.com/drive/folders/16vjTdm2RX2x-v5wJFYolyJHpVOTz58jB?usp=sharing)  
-📦 **Download APK:** [MedReminders.apk](https://drive.google.com/file/d/1MHJLZLHZqPm7YnuvgSkNjNT1bUGQcZ7T/view?usp=sharing)  
+ 
+📦 **Download APK:** [MedReminders.apk]([https://drive.google.com/file/d/1MHJLZLHZqPm7YnuvgSkNjNT1bUGQcZ7T/view?usp=sharing](https://drive.google.com/file/d/1VRMEdvkdzL_H7jmOPbmd7R8s6SPFfaHR/view?usp=drive_link))  
 🌐 **GitHub Pages Demo:** [Live Website](https://sarim2022.github.io/medremainders/)
 
 ---
